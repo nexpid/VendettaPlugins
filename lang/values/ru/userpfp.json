@@ -1,0 +1,4 @@
+{
+  "toast.patch_error": "UserPFP ну удалось заменить аватары!",
+  "toast.fetch_error": "UserPFP не может загрузить аватары!"
+}

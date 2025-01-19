@@ -1,0 +1,11 @@
+{
+  "settings.title": "设置",
+  "settings.emojipacks.title": "表情包",
+  "settings.emojipacks.choose.default": "Default (Twemoji)",
+  "settings.emojipacks.choose.default.ios": "Default (iOs Emoji)",
+  "settings.emojipacks.choose.twemoji": "Twemoji (CDN)",
+  "settings.emojipacks.choose.fluentui_static": "液体表情符号(计数)",
+  "settings.emojipacks.choose.fluentui_animated": "FluentUI 表情(动画)",
+  "settings.emojipacks.choose.noto_emoji": "Noto Emoji",
+  "settings.emojipacks.choose.discord": "Discord emoji 选择器"
+}

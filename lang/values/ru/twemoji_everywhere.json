@@ -1,0 +1,11 @@
+{
+  "settings.title": "Настройки",
+  "settings.emojipacks.title": "Набор эмодзи",
+  "settings.emojipacks.choose.default": "По умолчанию (Twemoji)",
+  "settings.emojipacks.choose.default.ios": "По умолчанию (эмодзи iOs)",
+  "settings.emojipacks.choose.twemoji": "Twemoji (CDN)",
+  "settings.emojipacks.choose.fluentui_static": "Эмодзи FluentUI (Статичные)",
+  "settings.emojipacks.choose.fluentui_animated": "Эмодзи FluentUI (Анимированные)",
+  "settings.emojipacks.choose.noto_emoji": "Эмодзи Noto",
+  "settings.emojipacks.choose.discord": "Смайлики Discord"
+}

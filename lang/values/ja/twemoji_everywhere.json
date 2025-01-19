@@ -1,0 +1,11 @@
+{
+  "settings.title": "設定",
+  "settings.emojipacks.title": "絵文字パック",
+  "settings.emojipacks.choose.default": "デフォルト (Twemoji)",
+  "settings.emojipacks.choose.default.ios": "デフォルト (iOS Emoji)",
+  "settings.emojipacks.choose.twemoji": "Twemoji (CDN)",
+  "settings.emojipacks.choose.fluentui_static": "FluentUI Emoji (静的)",
+  "settings.emojipacks.choose.fluentui_animated": "FluentUI Emoji (アニメーション)",
+  "settings.emojipacks.choose.noto_emoji": "Noto Emoji",
+  "settings.emojipacks.choose.discord": "Discordの絵文字ピッカー"
+}

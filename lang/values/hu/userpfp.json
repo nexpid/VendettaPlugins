@@ -1,0 +1,4 @@
+{
+  "toast.patch_error": "A UserPFP nem tudott profilképeket javítani!",
+  "toast.fetch_error": "A UserPFP nem tudta lekérni az profilképeket!"
+}

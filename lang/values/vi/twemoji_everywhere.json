@@ -1,0 +1,11 @@
+{
+  "settings.title": "Cài đặt",
+  "settings.emojipacks.title": "Gói emoji",
+  "settings.emojipacks.choose.default": "Mặc định (Twemoji)",
+  "settings.emojipacks.choose.default.ios": "Mặc định (iOs Emoji)",
+  "settings.emojipacks.choose.twemoji": "Twemoji (CDN)",
+  "settings.emojipacks.choose.fluentui_static": "FluentUI Emoji (Gói tĩnh)",
+  "settings.emojipacks.choose.fluentui_animated": "FluentUI Emoji (Gói động)",
+  "settings.emojipacks.choose.noto_emoji": "Noto Emoji",
+  "settings.emojipacks.choose.discord": "Bộ chọn Discord Emoji"
+}

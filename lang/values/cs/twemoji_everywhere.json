@@ -1,0 +1,11 @@
+{
+  "settings.title": "Nastavení",
+  "settings.emojipacks.title": "Sada emoji",
+  "settings.emojipacks.choose.default": "Výchozí (Twemoji)",
+  "settings.emojipacks.choose.default.ios": "Výchozí (iOs Emoji)",
+  "settings.emojipacks.choose.twemoji": "Twemoji (CDN)",
+  "settings.emojipacks.choose.fluentui_static": "FluentUI Emoji (statické)",
+  "settings.emojipacks.choose.fluentui_animated": "FluentUI Emoji (animované)",
+  "settings.emojipacks.choose.noto_emoji": "Noto Emoji",
+  "settings.emojipacks.choose.discord": "Discordův emodži picker"
+}

@@ -1,0 +1,4 @@
+{
+  "toast.patch_error": "Le patch des avatars via UserPFP a échoué!",
+  "toast.fetch_error": "UserPFP n'a pas pu récupérer les avatars!"
+}

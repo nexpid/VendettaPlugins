@@ -1,0 +1,11 @@
+{
+  "settings.title": "Ayarlar",
+  "settings.emojipacks.title": "Emoji paketi",
+  "settings.emojipacks.choose.default": "Varsayılan (Twemoji)",
+  "settings.emojipacks.choose.default.ios": "Varsayılan (iOS emojileri)",
+  "settings.emojipacks.choose.twemoji": "Twemoji (CDN)",
+  "settings.emojipacks.choose.fluentui_static": "FluentUI Emoji (Statik)",
+  "settings.emojipacks.choose.fluentui_animated": "FluentUI Emoji (Animasyonlu)",
+  "settings.emojipacks.choose.noto_emoji": "Noto Emoji",
+  "settings.emojipacks.choose.discord": "Discord emoji seçici"
+}

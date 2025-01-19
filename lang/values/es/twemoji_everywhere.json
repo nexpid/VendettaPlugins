@@ -1,0 +1,11 @@
+{
+  "settings.title": "Ajustes",
+  "settings.emojipacks.title": "Paquete Emoji",
+  "settings.emojipacks.choose.default": "Default (Twemoji)",
+  "settings.emojipacks.choose.default.ios": "Default (iOs Emoji)",
+  "settings.emojipacks.choose.twemoji": "Twemoji (CDN)",
+  "settings.emojipacks.choose.fluentui_static": "Emoji FluentUI (Estático)",
+  "settings.emojipacks.choose.fluentui_animated": "Emoji FluentUI (Animado)",
+  "settings.emojipacks.choose.noto_emoji": "Noto Emoji",
+  "settings.emojipacks.choose.discord": "Selector de emoji de Discord"
+}

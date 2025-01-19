@@ -1,0 +1,11 @@
+{
+  "settings.title": "Beállítások",
+  "settings.emojipacks.title": "Emoji csomag",
+  "settings.emojipacks.choose.default": "Alapértelmezett (Twemoji)",
+  "settings.emojipacks.choose.default.ios": "Alapértelmezett (iOs Emoji)",
+  "settings.emojipacks.choose.twemoji": "Twemoji (CDN)",
+  "settings.emojipacks.choose.fluentui_static": "FluentUI Emoji (Statikus)",
+  "settings.emojipacks.choose.fluentui_animated": "FluentUI Emoji (Animált)",
+  "settings.emojipacks.choose.noto_emoji": "Noto Emoji",
+  "settings.emojipacks.choose.discord": "Discord emotikon választó"
+}
